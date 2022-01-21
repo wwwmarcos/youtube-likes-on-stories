@@ -1,0 +1,23 @@
+{
+  "name": "yt-ig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^1.0.1",
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "googleapis": "^92.0.0",
+    "instagram-private-api": "^1.45.2",
+    "mongoose": "^6.1.5",
+    "sharp": "^0.29.3",
+    "youtube-api": "^3.0.1"
+  }
+}
